@@ -42,7 +42,8 @@
 
 ## 🐍 Watch My Contributions Come to Life!  
 <div align="center">
-<img src="https://github.com/RoRvzzz/RoRvzzz/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/rorvzzz/rorvzzz/blob/output/snake.svg" alt="Snake animation" />
+
 
 </div>
 
