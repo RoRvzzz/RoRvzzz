@@ -1,17 +1,16 @@
 <h1 align="center">Yo, I'm RoRvzzz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=%23A93AFF&center=true&vCenter=true&lines=Roblox+Scripter;Python+Bot+Developer;Breakcore+Lover;Oversteer+Collective+Founder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=%23A93AFF&center=true&vCenter=true&lines=Roblox+Scripter;Python+Bot+Developer;Breakcore+Lover" />
 </p>
 
 ---
 
 ## 🎭 Who Am I?
-🚀 **Exploiter, Developer, & Automation Wizard**  
-🎮 **Roblox Scripter (LuaU) & Game Automation Enthusiast**  
-💜 **Creator of [VioletMenu](https://violetmenu.netlify.app) & [Xonncz](https://xonncz.netlify.app)**  
-🔥 **Founder of Oversteer Collective**  
-🎵 **Breakcore enjoyer**  
+🚀 | **"Roblox" Dev (catch my drift), Developer, & Automation Wizard**  
+🎮 | **Roblox Scripter (LuaU) & Game Automation Enthusiast**  
+💜 | **Designer of [VioletMenu](https://violetmenu.netlify.app) & [Xonncz](https://xonncz.netlify.app)** Websites
+🎵 | **Breakcore enjoyer**   
 
 ---
 
