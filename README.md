@@ -39,10 +39,12 @@
 </div>
 
 ---
+
 ## 🐍 Watch My Contributions Come to Life!  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rorvzzz/rorvzzz/output/snake.yml" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rorvzzz/rorvzzz/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 
 ## 🔥 Featured Projects  
