@@ -58,7 +58,7 @@
   <a href="https://www.rorvzzz.com">
     <img src="https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
-  <a href="https://discord.gg/YOURSERVER">
+  <a href="https://discord.gg/violetmenu">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/rorvzzz">
