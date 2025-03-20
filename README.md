@@ -42,7 +42,7 @@
 
 ## 🐍 Watch My Contributions Come to Life!  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rorvzzz/rorvzzz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/WarFiN123/WarFiN123/output/snake.svg" alt="Snake animation" />
 </div>
 
 
