@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Small+Dev" alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Inactive+Dev" alt="Typing SVG" /><br>
   <img src="https://komarev.com/ghpvc/?username=warfin123&label=Views&color=ffb000&style=flat" alt="smug246" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WarFiN123&theme=vision-friendly-dark&locale=en&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" height="253" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WarFiN123&theme=highcontrast&hide_border=true" alt="Streak Stats" height="230" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoRvzzz&theme=highcontrast&hide_border=true" alt="Streak Stats" height="230" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WarFiN123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&custom_title=Languages%20Used" alt="Languages Used" height="300" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WarFiN123&hide_border=true&theme=high-contrast&title_color=ffb000&line=ffb000&radius=169&area=true&area_color=785ef0" alt="Activity Graph" height="205" /><br>
   <a href='https://www.instagram.com/warfin_123/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black&color=ffb000'/>
