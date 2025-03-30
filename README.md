@@ -7,8 +7,8 @@
 ---
 
 ## 🎭 Who Am I?
-🚀 | **"Roblox" Dev (catch my drift), Developer, & Automation Wizard**  
-🎮 | **Roblox Scripter (LuaU) & Game Automation Enthusiast**  
+🚀 | **"Roblox Anti Cheat Developer, & Automation Wizard**  
+🎮 | **Roblox Scripter (Luau) & Game Automation Enthusiast**  
 💜 | **Designer of [VioletMenu](https://violetmenu.netlify.app) & [Xonncz](https://xonncz.netlify.app)** Websites
 🎵 | **Breakcore enjoyer**   
 
