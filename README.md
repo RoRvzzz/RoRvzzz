@@ -6,11 +6,7 @@
 
 ---
 
-## 🎭 Who Am I?
-🚀 | **"Roblox Anti Cheat Developer, & Automation Wizard**  
-🎮 | **Roblox Scripter (Luau) & Game Automation Enthusiast**  
-💜 | **Designer of [VioletMenu](https://violetmenu.netlify.app) & [Xonncz](https://xonncz.netlify.app)** Websites
-🎵 | **Breakcore enjoyer**   
+if you wanna find my projects dont look here, find me at discord.gg/macrostack
 
 ---
 
@@ -21,44 +17,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 
-### ⚙️ Tools  
-![Roblox](https://img.shields.io/badge/Roblox-%2320232a.svg?style=for-the-badge&logo=roblox&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Discord API](https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
-
----
-
-## 🏆 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rorvzzz&show_icons=true&theme=tokyonight&hide_border=true&title_color=A93AFF" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rorvzzz&theme=tokyonight&hide_border=true&fire=A93AFF" height="180px"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorvzzz&layout=compact&theme=tokyonight&hide_border=true&title_color=A93AFF" height="140px"/>
-</div>
-
----
-
-## 🐍 Watch My Contributions Come to Life!  
-<div align="center">
-  <img src="https://github.com/RoRvzzz/RoRvzzz/blob/output/github-user-contribution(1).svg" alt="Snake animation" />
-</div>
-
-
-
-## 🔥 Featured Projects  
-🎨 **[VioletMenu](https://violetmenu.netlify.app)** - Aesthetic & Functional  
-💻 **[Xonncz](https://xonncz.netlify.app)** - Another sick project  
-
----
-
-## 🎮 Connect With Me  
+## find me
 <p align="center">
   <a href="https://www.rorvzzz.com">
     <img src="https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
-  <a href="https://discord.gg/gagmacros">
+  <a href="https://discord.gg/macrostack">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/rorvzzz">
