@@ -1,37 +1,29 @@
-<h1 align="center">Yo, I'm RoRvzzz 👋</h1>
+<h1 align="center">rorvzzz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=%23A93AFF&center=true&vCenter=true&lines=Roblox+Scripter;Python+Bot+Developer;Breakcore+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=B838CA&width=420&lines=roblox+scripter;python+bot+dev;breakcore+addict" />
 </p>
 
 ---
 
-if you wanna find my projects dont look here, find me at discord.gg/macrostack
+### langs  
+![lua](https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![html](https://img.shields.io/badge/html-e34f26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
-## 🎨 My Setup  
+### building  
+- rogui universal gui manager for roblox
+- misc game scritps
 
-### 🚀 Languages  
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+---
 
-## find me
-<p align="center">
-  <a href="https://www.rorvzzz.com">
-    <img src="https://img.shields.io/badge/Website-%231DA1F2.svg?style=for-the-badge&logo=Firefox&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/macrostack">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/rorvzzz">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### links  
+[website](https://www.rorvzzz.com) • [discord](https://discord.gg/macrostack) • [socials](https://feds.lol/rorvzzz)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rorvzzz&label=Profile+Views&color=A93AFF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rorvzzz&label=views&color=B838CA&style=flat-square" />
 </p>
