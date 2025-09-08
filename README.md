@@ -1,9 +1,5 @@
 <h1 align="center">rorvzzz</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=B838CA&width=420&lines=roblox+scripter;python+bot+dev;breakcore+addict" />
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B838CA&width=435&lines=owner+%40+macrostack;roblox+anti--cheat+specialist)](https://git.io/typing-svg)
 
 ---
