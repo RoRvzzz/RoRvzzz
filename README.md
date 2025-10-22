@@ -13,8 +13,8 @@
 ---
 
 ### building  
-- RoGui – universal GUI manager for Roblox  
-- Misc game scripts  
+- owner @ macrostack build rosetta macro recorder
+- rogui and other misc roblox game scripts
 
 ---
 
