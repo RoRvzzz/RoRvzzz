@@ -13,7 +13,7 @@
 ---
 
 ### building  
-- owner @ macrostack build rosetta macro recorder
+- owner @ macrostack
 - rogui and other misc roblox game scripts
 
 ---
