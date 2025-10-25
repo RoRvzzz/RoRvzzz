@@ -14,7 +14,7 @@
 
 ### building  
 - owner @ macrostack
-- rogui and other misc roblox game scripts
+- creator @ xploit.today
 
 ---
 
