@@ -40,4 +40,4 @@ internet tools * hyperion specialist
 [xploit](https://xploit.today)
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=2000&color=484646&width=420&lines=building+anti-cheat+tools;breaking+bad+code;shipping+small+fast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=0D4795&width=435&lines=discord.gg%2Fmacrostack;https%3A%2F%2Fxploit.today;https%3A%2F%2Frorvzzz.com)](https://git.io/typing-svg)
