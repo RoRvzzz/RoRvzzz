@@ -44,8 +44,4 @@ flux-capacitor repairman • macrostack • roblox tooling
 https://scriptblox.com/u/zzzRoR
 </p>
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=2000&color=60A5FA&width=420&lines=anti-cheat+over+exploits;tools+over+toys;blue+screens+but+on+purpose" />
-</a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=0D4795&width=435&lines=discord.gg%2Fmacrostack;https%3A%2F%2Fxploit.today;https%3A%2F%2Frorvzzz.com)](https://git.io/typing-svg)
