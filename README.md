@@ -9,7 +9,7 @@ flux-capacitor repairman • macrostack • roblox tooling
 </p>
 
 <p align="center">
-  <img src="https://i.rorvzzz.com/0c751929lh53k4" width="85%" />
+  <img src="https://cdn.discordapp.com/avatars/757775045471895583/8ff6ed9b8ad4566e6bc2b33b9164cea4.webp?size=1024" width="85%" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ flux-capacitor repairman • macrostack • roblox tooling
 ---
 
 **links**  
-[website](https://www.rorvzzz.com)  
+[website](https://www.rorvzzz.cool)  
 
 ---
 
