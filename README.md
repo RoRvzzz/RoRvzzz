@@ -16,7 +16,7 @@
 
 ---
 
-**stack **
+**stack**
 
 *languages* 
 ![python](https://img.shields.io/badge/python-1E3A8A?style=flat&logo=python&logoColor=white)
