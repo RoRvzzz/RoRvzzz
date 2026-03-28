@@ -19,6 +19,7 @@
 **stack**
 
 *languages* 
+
 ![python](https://img.shields.io/badge/python-1E3A8A?style=flat&logo=python&logoColor=white)
 ![c++](https://img.shields.io/badge/c++-2563EB?style=flat&logo=c%2B%2B&logoColor=white)
 ![rust](https://img.shields.io/badge/rust-1D4ED8?style=flat&logo=rust&logoColor=white)
@@ -26,7 +27,10 @@
 ![ahk](https://img.shields.io/badge/ahk-3B82F6?style=flat&logo=autohotkey&logoColor=white)
 ![tailwind](https://img.shields.io/badge/tailwind-1D4ED8?style=flat&logo=tailwind-css&logoColor=white)
 
+---
+
 *tools* 
+
 ![react](https://img.shields.io/badge/react-1E3A8A?style=flat&logo=react&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-2563EB?style=flat&logo=node.js&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-0EA5E9?style=flat&logo=vite&logoColor=white)
