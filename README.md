@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=rorvzzz&label=views&color=FF0000&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RoRvzzz/RoRvzzz/refs/heads/main/9ea53bb7472b3d9d786983ad716d51bc.jpg" />
+</p>
+
 ---
 
 **focus**
