@@ -25,14 +25,16 @@
 ![rust](https://img.shields.io/badge/rust-B22222?style=flat&logo=rust&logoColor=white)
 ![luau](https://img.shields.io/badge/luau-FF6347?style=flat&logo=lua&logoColor=white)
 ![ahk](https://img.shields.io/badge/ahk-FF0000?style=flat&logo=autohotkey&logoColor=white)
-![tailwind](https://img.shields.io/badge/tailwind-DC143C?style=flat&logo=tailwind-css&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-8B0000?style=flat&logo=typescript&logoColor=white)
+![css](https://img.shields.io/badge/css-DC143C?style=flat&logo=css3&logoColor=white)
 
 ---
 
-*tools* 
+*tools & frameworks* 
 
 ![react](https://img.shields.io/badge/react-FF6347?style=flat&logo=react&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js-DC143C?style=flat&logo=node.js&logoColor=white)
+![tailwind](https://img.shields.io/badge/tailwind-DC143C?style=flat&logo=tailwind-css&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-B22222?style=flat&logo=node.js&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-FF6347?style=flat&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-FF0000?style=flat&logo=npm&logoColor=white)
 ![git](https://img.shields.io/badge/git-8B0000?style=flat&logo=git&logoColor=white)
